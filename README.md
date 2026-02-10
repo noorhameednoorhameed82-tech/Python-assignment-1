@@ -1,2 +1,1 @@
-# Python-assignment-1
-Variables and data types notebook
+This repository contains basic Python programs for beginners.
