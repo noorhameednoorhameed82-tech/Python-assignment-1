@@ -1,1 +1,1 @@
-This repository contains basic Python programs for beginners.
+This repository covers all the fundamental concepts of Python programming, providing a comprehensive guide for beginners. This repository aims to provide a complete, beginner-friendly reference that helps learners understand and practice Python programming efficiently.
